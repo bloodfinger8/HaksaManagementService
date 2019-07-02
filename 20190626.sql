@@ -1,0 +1,7 @@
+CREATE TABLE STUDENT
+(no NUMBER(10),
+irum VARCHAR2(100),
+hakbun VARCHAR2(100),
+age VARCHAR2()
+
+)
